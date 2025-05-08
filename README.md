@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 ***Hi, I'm Minal Kulkarni***
 
-<!--
-**MinalKulkarni07/MinalKulkarni07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Data Analyst** | Eager to Learn & Contribute  
+📊 Passionate about turning raw data into clear, actionable insights
 
-Here are some ideas to get you started:
+---
+### 💡 ***About Me***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔍 Currently building skills in **Python, SQL, Power BI, Tableau, Excel**, and **Data Visualization**.
+- 📈 Hands-on experience with cleaning, analyzing, and visualizing sales and e-commerce datasets.
+- 💼 I'm committed to continuous learning and contributing to meaningful data-driven projects.
+---
+### 🛠️ ***Tools & Skills***
+
+- **Languages & Tools**: Python (Pandas, NumPy, Matplotlib), R, SQL (MySQL), MongoDB, Excel Macros and VBA  
+- **Visualization**: Power BI, Tableau, Advanced Excel  
+- **Soft Skills**: Critical Thinking, Attention to Detail, Problem Solving, Time Management
+---
